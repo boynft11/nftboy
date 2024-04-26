@@ -95,7 +95,7 @@ dist
 .serverless/
 
 # FuseBox cache
-.fusebox/
+
 
 # DynamoDB Local files
 .dynamodb/
