@@ -87,7 +87,7 @@ z
 # https://nextjs.org/blog/next-9-1#public-directory-support
 
 
-# vuepress build output
+press build output
 .vuepress/dist
 
 # Serverless directories
