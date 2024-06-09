@@ -93,7 +93,6 @@ press build output
 .dynamodb/
 
 # TernJS port file
-
 # macOS
 .DS_Store
 
