@@ -87,7 +87,6 @@ press build output
 
 # FuseBox cache
 
-
 # DynamoDB Local files
 .dynamodb/
 
