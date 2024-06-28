@@ -49,7 +49,6 @@ typings/
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
-
 # Optional REPL history
 .node_repl_history
 tput of 'npm pack'
