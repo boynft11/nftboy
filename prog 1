@@ -64,8 +64,7 @@ z
 
 # Next.js build output
 .next
-
-# Nuxt.js build / generate output
+xt.js build / generate output
 .nuxt
 
 .cache/
