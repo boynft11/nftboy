@@ -70,7 +70,6 @@ xt.js build / generate output
 
 press build output
 .vuepress/dist
-
 # Serverless directories
 .serverless/
 
