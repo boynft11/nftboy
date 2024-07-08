@@ -49,8 +49,6 @@ typings/
 .node_repl_history
 tput of 'npm pack'
 z
-# Yarn Integrity file
-.yarn-integrity
 
 .env.test
 
