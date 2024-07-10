@@ -65,7 +65,7 @@ xt.js build / generate output
 
 press build output
 .vuepress/dist
-# Serverless directories
+# Serverless directories0
 .serverless/
 
 # FuseBox cache
