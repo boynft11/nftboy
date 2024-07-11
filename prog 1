@@ -62,7 +62,7 @@ xt.js build / generate output
 .cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
-
+ppo'
 press build output
 .vuepress/dist
 # Serverless directories0
