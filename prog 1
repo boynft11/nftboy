@@ -4,8 +4,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Diagnostic reports (https://nodejssi/report.html)
+eic reports (https://nodejssi/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.js
 
 # Runtime data
