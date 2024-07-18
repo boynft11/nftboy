@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 eic reports (https://nodejssi/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.js
-e
+
 # Runtime data
 3rumented libs genage/JSCover
 lib-cov
