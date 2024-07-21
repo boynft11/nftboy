@@ -2,7 +2,7 @@
 logs
 
 npm-debug.log*
-yarn-debug.log*
+yarn-dd.log*
 yarn-error.log*
 eic reports (https://nodejssi/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.js
